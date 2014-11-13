@@ -1,0 +1,27 @@
+/*---------------------------BEGIN CUSTOM BLOCK-------------------------*/
+body {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: #f7f7f7;
+  /*Fixed top navbar*/
+  padding-top: 70px; }
+
+/*----------------------------------------------------------------------*/
+#navbar-custom {
+  filter: alpha(opacity=77);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=77)";
+  -moz-opacity: 0.77;
+  -webkit-opacity: 0.77;
+  -khtml-opacity: 0.77;
+  opacity: 0.77; }
+  #navbar-custom:hover, #navbar-custom:focus {
+    filter: alpha(opacity=100);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    -moz-opacity: 1;
+    -webkit-opacity: 1;
+    -khtml-opacity: 1;
+    opacity: 1; }
+
+/*----------------------------END CUSTOM BLOCK--------------------------*/
+
+/*# sourceMappingURL=style-custom.css.map */
